@@ -1,0 +1,28 @@
+# Data dan file Excel
+*.xlsx
+*.xls
+*.csv
+data/
+
+# Hasil visualisasi
+output/
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
